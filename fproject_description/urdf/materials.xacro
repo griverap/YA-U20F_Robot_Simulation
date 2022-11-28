@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<robot name="fproject" xmlns:xacro="http://www.ros.org/wiki/xacro" >
+
+<material name="silver">
+  <color rgba="0.286 0.309 0.325 1"/>
+</material>
+<material name="gray">
+    <color rgba="0.22 0.22 0.22 1"/>
+</material>
+<material name="gray_blue">
+    <color rgba="0.376 0.435 0.478 1"/>
+</material>
+
+</robot>
